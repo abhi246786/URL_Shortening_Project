@@ -48,7 +48,7 @@ the small url into the original url
 
 1. Clone repository and go inside the repository folder "url-shortener-api"
 ```sh
-git clone https://github.com/Fantaso/url-shortener-api.git
+git clonethttps://github.com/abhi246786/URL_Shortening_Project.git
 ```
 
 2. Create you virtualenv and install the packages
