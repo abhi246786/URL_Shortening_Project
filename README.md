@@ -22,25 +22,8 @@ pattern-consistent (encoded) small url easy to share and remember.
 At the same time the user is allowed to transform back (decode)
 the small url into the original url 
 
-It is partly tested as only and was developed as showcase only.
 
 
-
-
-How Url Shortener API Works:
-- You can send (POST) a full url and retrieve a small encoded one with tier.app as the base web service url.
-
-    Eg. POST http://localhost:8000/shorten-url
-        with https://python.org/long-url
-        result: https://tier.app/sY6f3J (6 digits id)
-    
-- You can get the original url with the encoded url on a GET request (done in previous step)
-
-    Eg. GET https://tier.app/sY6f3J
-        result: https://python.org/long-url
-        
-
-<br><br>
 
 ## Index:
 - #### Installation
