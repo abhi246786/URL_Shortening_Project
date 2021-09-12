@@ -142,31 +142,3 @@ To interact and start using the API, you will need a tool send HTTP requests to 
 <br><br>
 
 
-## Maintainer
-Get in touch -–> [Github][github-profile]
-
-
-
-<!-- Links -->
-<!-- Profiles -->
-[github-profile]: https://github.com/fantaso/
-[linkedin-profile]: https://www.linkedin.com/
-[fantaso]: https://www.fantaso.de/
-<!-- Extra -->
-[postman-button-svg]:https://run.pstmn.io/button.svg
-[postman-button-link]:https://app.getpostman.com/run-collection/62ef5e078ec400e93201
-
-
-<!-- Repos -->
-[github-repo]: https://github.com/Fantaso/url-shortener-api
-
-<!-- Builds -->
-[travis-link]: https://travis-ci.org/
-[travis-image]: https://travis-ci.org/
-
-<!-- images -->
-[python]: readme/python.png
-[django]: readme/django.png
-[django-rest-extension]: readme/django-rest-extension.png
-[sqlite]: readme/sqlite.jpeg
-[postman]: readme/postman.png
