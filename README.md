@@ -1,7 +1,3 @@
-<!-- logo -->
-<a href="https://github.io/fantaso">
-<img src="/readme/fantaso.png" align="right" />
-</a>
 
 <!-- header -->
 <h1 style="text-align: left; margin-top:0px;">
